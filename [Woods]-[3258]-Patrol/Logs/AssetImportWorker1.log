@@ -190,3 +190,43 @@ Received Import Request.
 Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9326e97e2461385864aa44f9e28ada') in 0.019213 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1396.605668 seconds.
+  path: Assets/FirstsectionScripts/Delta Time A Float.asset
+  artifactKey: Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Delta Time A Float.asset using Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b8d86eb6514d11bdf4da3acfedd336') in 1.107078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1285.205121 seconds.
+  path: Assets/FirstsectionScripts/Forwards.asset
+  artifactKey: Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Forwards.asset using Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b16cff493a9e722a0d891bd9818dec') in 0.230438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/FirstsectionScripts/Rotate.asset
+  artifactKey: Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Rotate.asset using Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcd166b265e3521d9a2d8a188546757') in 0.035002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 256.100969 seconds.
+  path: Assets/FirstsectionScripts/Sideways.asset
+  artifactKey: Guid(7efcd337849720c4795331fc82646645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Sideways.asset using Guid(7efcd337849720c4795331fc82646645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40f6da261163a4b74a249076a8da9ed') in 0.012540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 239.848693 seconds.
+  path: Assets/FirstsectionScripts/Check Floor.asset
+  artifactKey: Guid(f14358d8bae84044b9bc5035d8e9244e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Check Floor.asset using Guid(f14358d8bae84044b9bc5035d8e9244e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7a6b4cce6067514ce57d18b84d6ae3') in 0.072364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

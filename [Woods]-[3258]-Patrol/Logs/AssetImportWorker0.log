@@ -198,3 +198,131 @@ Received Import Request.
 Start importing Assets/New Material.mat using Guid(aa0af1dc9917e514d8de98aa0b5a229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed75379f4057c93367e61b6983665254') in 0.421649 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 914.177694 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(aa0af1dc9917e514d8de98aa0b5a229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(aa0af1dc9917e514d8de98aa0b5a229d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a122c303a6d0ddb17f9af4f85a91c07b') in 0.012289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.717406 seconds.
+  path: Assets/FirstsectionScripts
+  artifactKey: Guid(db4fef245a53e044fb45fb2259dae934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts using Guid(db4fef245a53e044fb45fb2259dae934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b234faf3615ba8bc644f494bd75e664b') in 0.000582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.114150 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377a82abb448eb70c5caf97807792209') in 0.364858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 16.113442 seconds.
+  path: Assets/FirstsectionScripts/New Script Graph.asset
+  artifactKey: Guid(aefb2d6f21b05e249885dde5b79d0741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/New Script Graph.asset using Guid(aefb2d6f21b05e249885dde5b79d0741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfafef49408a7f1c3eef94b87e738e26') in 0.005472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 21.115672 seconds.
+  path: Assets/FirstsectionScripts/Delta Time Float.asset
+  artifactKey: Guid(aefb2d6f21b05e249885dde5b79d0741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Delta Time Float.asset using Guid(aefb2d6f21b05e249885dde5b79d0741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095add106a76bb4e1a28949b48d9e221') in 0.002662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 106.968182 seconds.
+  path: Assets/FirstsectionScripts/New Lighting Settings.lighting
+  artifactKey: Guid(f270f734765c10c42bda29edb74923eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/New Lighting Settings.lighting using Guid(f270f734765c10c42bda29edb74923eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcbe8c57b9920bdd3197009bcccb05b') in 0.001842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 154.676918 seconds.
+  path: Assets/FirstsectionScripts/Delta Time A Float.asset
+  artifactKey: Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Delta Time A Float.asset using Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3585bf195806891ed2d4f84f056be1') in 0.014507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 124.909665 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7937a2ae7740729f8d2901d8f263fc0b') in 0.766111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 245.081606 seconds.
+  path: Assets/FirstsectionScripts/Rotate.asset
+  artifactKey: Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Rotate.asset using Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c365e72d8e13885e9cf3b27fa5a36d6') in 0.002255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 824.039754 seconds.
+  path: Assets/FirstsectionScripts/Forwards.asset
+  artifactKey: Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Forwards.asset using Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4645924ea2455a76ce3878b3a7eef625') in 0.005278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 216.414134 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e49746e3a95c3a72ec629acd36242fe') in 0.240196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 76.718723 seconds.
+  path: Assets/FirstsectionScripts/Sideways.asset
+  artifactKey: Guid(7efcd337849720c4795331fc82646645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Sideways.asset using Guid(7efcd337849720c4795331fc82646645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35c2e4bdf7ab644ce55bc61f8046508') in 0.004592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 179.400518 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5893d49c6d6e7a0c374fa45bd6208fe') in 0.023609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 41.678774 seconds.
+  path: Assets/FirstsectionScripts/Check Floor.asset
+  artifactKey: Guid(f14358d8bae84044b9bc5035d8e9244e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Check Floor.asset using Guid(f14358d8bae84044b9bc5035d8e9244e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8739bc2c0a315d95ed39d55a27a62ef') in 0.004276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 198.155526 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27350ff7e6ee2f038ba36ff130313d58') in 0.091964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 24.783631 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96685142b5402552f95b585760899666') in 0.030589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
