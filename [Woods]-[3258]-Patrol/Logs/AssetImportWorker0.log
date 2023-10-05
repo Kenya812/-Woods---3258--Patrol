@@ -436,3 +436,64 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3074.169753 seconds.
+  path: Assets/FirstsectionScripts/CapsulePlayer.asset
+  artifactKey: Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/CapsulePlayer.asset using Guid(6b915b18103af4b48b1b53f3b577d354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fa620cfd7b5ec7ea902142f001f43b') in 0.758798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/FirstsectionScripts/Detector.asset
+  artifactKey: Guid(05ff63ff9e3f1bc49b9fa6f30aef5c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Detector.asset using Guid(05ff63ff9e3f1bc49b9fa6f30aef5c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8c32514778ab624a58df4811d8a611') in 0.001591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/FirstsectionScripts/Forwards.asset
+  artifactKey: Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Forwards.asset using Guid(61d4878cf39e9c548a9e4020a24d9316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511643d0b0cb43943182a55b0fefdf4e') in 0.006446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/FirstsectionScripts/Delta Time A Float.asset
+  artifactKey: Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Delta Time A Float.asset using Guid(d2d71bf725d329a4397a9ebdf3460bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790595d7df816da6991f11095c24ca13') in 0.001474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/FirstsectionScripts/Do Gravity.asset
+  artifactKey: Guid(8c169cacb3676f0449b7e7a6d0d2fde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Do Gravity.asset using Guid(8c169cacb3676f0449b7e7a6d0d2fde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac67d045df98c83e6c75bf6a001ce0e') in 0.002499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.651597 seconds.
+  path: Assets/FirstsectionScripts/Mover(Random).asset
+  artifactKey: Guid(c301991ee53ba5642a473b250e91e517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Mover(Random).asset using Guid(c301991ee53ba5642a473b250e91e517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b89cd5a39d20072c4dcb09ec87fe6c') in 0.001668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.356546 seconds.
+  path: Assets/FirstsectionScripts/Rotate.asset
+  artifactKey: Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstsectionScripts/Rotate.asset using Guid(9be35475f01e34c4ba3ddee0e8e0968e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf1e772b28d293dc459a944c22f2fb8') in 0.004416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
